@@ -1,0 +1,4 @@
+1. knock simulates the Knock-Knock game
+2. quote pick random quotes from a set on the server and displays it on the client.
+3. read-write uses unreliable datagram packets to deliver information from host to client.
+4. socket is a chat application which has a very rudimentary GUI, build in JApplets.
